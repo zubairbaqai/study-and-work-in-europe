@@ -76,7 +76,7 @@ CS graduates are in strong demand in both countries. Germany has explicit shorta
 
 ## Preparing your application
 
-A clean, software-readable CV matters more in tech than almost anywhere, because large employers screen with applicant tracking systems:
+A clean, software-readable CV matters more in tech than almost anywhere, because large employers screen with applicant tracking systems. You can [test what a parser actually reads from your PDF](https://www.prezumi.com/tools/ats-resume-checker) for free before you apply.
 
 - [ATS-friendly resumes](../job-hunt/ats-friendly-resume.md) — keep your resume readable by the software that screens it first.
 - [Europass CV](../job-hunt/europass-cv.md) — the EU standard, often expected for scholarships and Italian applications.

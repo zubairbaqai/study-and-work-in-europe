@@ -57,7 +57,9 @@ Applying to study is different from applying for a job, and the CV shifts with i
 
 - **A job in Germany** → a German-style Lebenslauf plus an Anschreiben, in the language of the posting.
 - **A job in Italy, public sector or academia** → Europass.
-- **A job at an international company or startop, anywhere** → a clean English resume, ATS-checked.
+- **A job at an international company or startup, anywhere** → a clean English resume, ATS-checked.
 - **A university or scholarship application** → an education-led CV, often Europass, plus a strong motivation letter.
+
+If you're early in your career, two worked examples cover most student situations: [student CV examples](https://www.prezumi.com/blog/student-cv-examples) for the education-led format, and [how to write a first CV with no experience](https://www.prezumi.com/blog/first-job-cv-no-experience) when your history is mostly studies, projects, and part-time work.
 
 You can build all of these from one set of facts. [Prezumi](https://www.prezumi.com) generates a resume, a Europass-styled CV, and an online profile from a single profile, and the resume download is free — useful when you need the same history in three formats for three different applications.

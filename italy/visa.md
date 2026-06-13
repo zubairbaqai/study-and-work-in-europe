@@ -58,6 +58,8 @@ There are two main paths after your degree:
 
 Both routes change with immigration law and quota decrees. Confirm the current rules on [studyinitaly.esteri.it](https://studyinitaly.esteri.it) and [vistoperitalia.esteri.it](https://vistoperitalia.esteri.it), and ask your university's office, which tends to know the latest local practice.
 
+For a plain-language walkthrough of the student-visa process, Prezumi keeps a [student-visa guide for Italy](https://www.prezumi.com/blog/student-visa-italy). The official portals above stay the source of truth for any figure or deadline.
+
 ## Official sources
 
 - Study in Italy (Ministry of Foreign Affairs): https://studyinitaly.esteri.it

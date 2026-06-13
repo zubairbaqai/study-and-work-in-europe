@@ -54,6 +54,8 @@ This is the part that makes Germany attractive for international students. After
 
 Once you have a qualified job offer, you switch to a work residence permit. For well-paid, qualified roles, the **EU Blue Card** is the main route; it has a minimum salary threshold that changes yearly and offers a faster path toward permanent residence. The details, the current salary thresholds, and the in-demand fields are covered in [working-and-jobs.md](working-and-jobs.md). For the official, current rules on post-study work and the Blue Card, use the German government's portal for international skilled workers at https://www.make-it-in-germany.com.
 
+For a plain-language walkthrough of the whole student-visa process, Prezumi keeps a [student-visa guide for Germany](https://www.prezumi.com/blog/student-visa-germany). Treat the official portals above as the source of truth for any figure, since those change.
+
 ## Official sources
 
 - German Federal Foreign Office (visas, blocked-account amount): https://www.auswaertiges-amt.de

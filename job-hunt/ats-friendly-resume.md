@@ -56,7 +56,9 @@ The old "never send a PDF" advice dates from parsers that genuinely choked on th
 
 The cheapest test: open your PDF, select all, copy, and paste into a plain text editor. If the result is scrambled, glued together, or missing chunks, an ATS sees the same mess.
 
-For a fuller check, [Prezumi's free ATS resume checker](https://www.prezumi.com/tools/ats-resume-checker) runs real text extraction on your PDF and shows you exactly what a parser pulls out, plus a score for reading order, sections, and contact details. No signup. If you'd rather start from a layout that's already extraction-tested, the [ATS-friendly resume templates](https://www.prezumi.com/templates/resumes) are built and checked for clean parsing, and the resume download is free.
+For a fuller check, [Prezumi's free ATS resume checker](https://www.prezumi.com/tools/ats-resume-checker) runs real text extraction on your PDF and shows you exactly what a parser pulls out, plus a score for reading order, sections, and contact details. No signup. If you'd rather start from a layout that's already extraction-tested, the [ATS-friendly resume templates](https://www.prezumi.com/templates/resumes/ats-friendly) are built and checked for clean parsing, and the resume download is free.
+
+Once the structure parses cleanly, the words matter. A [resume buzzword checker](https://www.prezumi.com/tools/resume-buzzword-checker) flags the empty filler — "results-driven", "team player", "synergy" — that recruiters skim past, so you can replace it with something concrete.
 
 ## Myths
 

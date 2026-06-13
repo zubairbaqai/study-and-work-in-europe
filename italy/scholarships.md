@@ -42,6 +42,8 @@ Because the rules, income thresholds, and amounts are set per region and change 
 
 The Italian Ministry of Foreign Affairs (**MAECI**) offers scholarships for international students and Italians abroad. These typically cover a monthly allowance and health cover for a set period, and they run on an annual call with a fixed application window. The amounts and eligibility are set each year, so check the current call rather than assuming last year's terms. The authoritative page is [studyinitaly.esteri.it](https://studyinitaly.esteri.it).
 
+Italian government and "right to study" applications almost always ask for a CV in **Europass** format. If you don't have one, the [free Europass converter](https://www.prezumi.com/tools/europass-converter) turns a resume into the EU standard layout, and [student CV examples](https://www.prezumi.com/blog/student-cv-examples) show what an education-led CV looks like — the [job-hunt section](../job-hunt/) has the full rundown.
+
 ## Invest Your Talent in Italy
 
 **Invest Your Talent in Italy** is a government-backed program that offers scholarships to international students from selected countries for master's programs in fields like engineering, economics, management, and design, usually with an internship component at an Italian company. Eligible countries and participating universities are set each year. Check the official program details through [studyinitaly.esteri.it](https://studyinitaly.esteri.it).

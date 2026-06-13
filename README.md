@@ -82,6 +82,7 @@ Admissions committees, scholarship panels, and employers all read documents — 
 
 - **A resume that software can actually read.** Large employers screen with applicant tracking systems. [Build a free, ATS-checked resume with Prezumi](https://www.prezumi.com/templates/resumes), or test one you already have with the [free ATS checker](https://www.prezumi.com/tools/ats-resume-checker).
 - **A Europass CV when Europe expects it.** Italy and most scholarship applications want the EU standard format. The [free Europass converter](https://www.prezumi.com/tools/europass-converter) turns a resume you have into a Europass-styled CV.
+- **Worked examples, if you're starting cold.** Most students arriving in Europe have never written an education-led CV. See [student CV examples](https://www.prezumi.com/blog/student-cv-examples) and, if you have little or no work history yet, [how to write a first CV with no experience](https://www.prezumi.com/blog/first-job-cv-no-experience).
 - **The right format per country** — see [German & Italian CV norms](job-hunt/application-cv-by-country.md).
 
 ---

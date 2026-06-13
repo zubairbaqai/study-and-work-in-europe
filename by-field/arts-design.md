@@ -87,3 +87,5 @@ Beyond the portfolio, you'll need a CV for the application itself, for studios, 
 - [Europass CV](../job-hunt/europass-cv.md) — the EU standard, often expected for scholarships and Italian applications.
 - [ATS-friendly resumes](../job-hunt/ats-friendly-resume.md) — for studios and employers who screen with software.
 - [German & Italian CV norms](../job-hunt/application-cv-by-country.md) — what differs between a German and an Italian CV.
+
+A link to your work helps as much as the CV in creative fields. If you don't have a site, Prezumi can [turn a resume into a simple portfolio page](https://www.prezumi.com/tools/resume-to-website) you can send alongside the application.

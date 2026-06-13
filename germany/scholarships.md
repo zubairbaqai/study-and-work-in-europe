@@ -22,6 +22,8 @@ The **DAAD** (German Academic Exchange Service) runs the largest set of scholars
 
 Use the DAAD scholarship database to filter by your status and country, since eligibility and amounts differ a lot between programs. Stipend levels and what each scholarship covers change over time, so read the exact figures on the specific scholarship page rather than relying on a single quoted number.
 
+Most DAAD applications ask for a **tabular CV** — often in Europass form — alongside your transcripts and a motivation letter. The [job-hunt section](../job-hunt/) covers the format; if you're writing one for the first time, [student CV examples](https://www.prezumi.com/blog/student-cv-examples) and the [free Europass converter](https://www.prezumi.com/tools/europass-converter) are a useful starting point.
+
 - DAAD scholarship database: https://www.daad.de
 
 ## Deutschlandstipendium

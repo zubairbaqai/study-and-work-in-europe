@@ -56,6 +56,8 @@ How you submit depends on the university:
 
 Some universities use uni-assist for some programs and direct application for others. The program page always says which. Submitting through the wrong channel is a common, avoidable mistake.
 
+Many master's programs ask for a **tabellarischer Lebenslauf** — a tabular, dated CV — among the required documents, often with a motivation letter. It's a specific format that differs from a resume you might use elsewhere; [German & Italian CV norms](../job-hunt/application-cv-by-country.md) explains it, and [student CV examples](https://www.prezumi.com/blog/student-cv-examples) show the education-led structure admissions committees expect.
+
 ## Step 7: Deadlines
 
 Germany has a winter intake (starts around October, the main intake) and a smaller summer intake (starts around April). As a rough orientation, winter-intake applications are **typically** due around **15 July** and summer-intake applications around **mid-January**, but deadlines vary widely by university and program, and uni-assist deadlines are often earlier because processing takes time. Confirm the exact date on the specific program page and work backward from it, especially if you also need an APS certificate or a Studienkolleg place.
