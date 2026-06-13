@@ -55,7 +55,7 @@ Italian and broader EU hiring conventions differ from those in the US or UK, so 
 - **CVs in Italy may include a photo and personal data** such as date of birth and nationality, which is conventional in much of continental Europe even though it is avoided elsewhere.
 - **A GDPR consent line is conventional** at the bottom of an Italian CV, authorising the employer to process your personal data. Including it is normal and expected.
 
-For the detailed guides, see [Europass CV](../job-hunt/europass-cv.md), [ATS-friendly resumes](../job-hunt/ats-friendly-resume.md), and [German & Italian CV norms](../job-hunt/application-cv-by-country.md). If you want to build one online, tools like [Prezumi](https://prezumi.com) can help, but the format guides above matter more than any single tool.
+For the detailed guides, see [Europass CV](../job-hunt/europass-cv.md), [ATS-friendly resumes](../job-hunt/ats-friendly-resume.md), and [German & Italian CV norms](../job-hunt/application-cv-by-country.md). If you want to build one online, tools like [Prezumi](https://www.prezumi.com) can help, but the format guides above matter more than any single tool.
 
 ## Official sources
 
